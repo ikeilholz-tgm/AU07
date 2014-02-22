@@ -5,4 +5,7 @@ public class MethodenKlasse {
 		return "Hello World";
 	}
 	
+	public String CiaoMondo(){
+		return "Ciao Mondo";
+	}
 }
